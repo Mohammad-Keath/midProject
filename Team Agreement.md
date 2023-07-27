@@ -1,5 +1,11 @@
 # Team Agreement
 
+**Group 1 (Coding Hunters):**
+- Malek Hasan.
+- Helmi Qatqat.
+- Mohammad Abu Essa.
+- Mohammad Zaytona.
+
 ## Cooperation Plan
 
 **What are the key strengths of each person on the team?**
